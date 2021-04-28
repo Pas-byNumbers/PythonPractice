@@ -1,0 +1,1 @@
+<p>This is a readme specifically made for git checkout preparation</p>
